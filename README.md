@@ -68,7 +68,7 @@ it runs inside.
 
 ## Education
 
-Bachelor's in Information Technology — **UFRN** · Game Design — **Udemy** · Database Administration — **IFRS**
+Bachelor's in Information Technology Administration — **Estácio** · Game Design — **Udemy** · Database Administration — **IFRS**
 
 ---
 
@@ -97,7 +97,7 @@ com uma demo jogável — [portfólio](https://thequing.github.io/Portif-lio-Luc
 *MidNight Memories e Hell's Kitchen são projetos de time em repositórios privados. Há
 vídeo dos dois, e de todos os outros, no [portfólio](https://thequing.github.io/Portif-lio-Lucas-Antonino/).*
 
-**Formação:** Bacharelado em Tecnologia da Informação — UFRN · Game Design — Udemy ·
+**Formação:** Bacharelado em Administração em Tecnologia da Informação — Estácio · Game Design — Udemy ·
 Administração de Banco de Dados — IFRS
 
 </details>
