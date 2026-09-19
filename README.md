@@ -51,10 +51,12 @@ one. In Early Access on Steam since August 2025.
 
 ## Equipped
 
-**Engines** Unity · Unity 6 · Unreal Engine 5
-**Languages** C# · C++ · Blueprints · Python
-**Gameplay** combat state machines · damage & knockback · enemy AI · narrative parsers · procedural generation · save systems
-**Practice** deterministic simulation · NUnit / `dotnet test` · headless smoke harnesses · FMOD · URP · Git
+| | |
+|---|---|
+| **Engines** | Unity · Unity 6 · Unreal Engine 5 |
+| **Languages** | C# · C++ · Blueprints · Python |
+| **Gameplay** | combat state machines · damage & knockback · enemy AI · narrative parsers · procedural generation · save systems |
+| **Practice** | deterministic simulation · NUnit / `dotnet test` · headless smoke harnesses · FMOD · URP · Git |
 
 Outside games I write backend Python — a [webhook relay](https://github.com/Thequing/webhook-relay)
 with jittered retries, HMAC signing and a replayable dead-letter queue, and a
